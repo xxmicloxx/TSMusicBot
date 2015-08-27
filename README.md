@@ -1,1 +1,2 @@
-# TSMusicBot
+README for TSMusicBot
+=====================

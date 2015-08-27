@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "TSMusicBot",
+    "packageName": "com.tsmusicbot",
+    "packageFolder": "com/tsmusicbot",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "de1377a002264cd684fca6ef2e5f5f910b3ae878"
+  }
+}
